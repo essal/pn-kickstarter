@@ -12,10 +12,10 @@
 !/htdocs/vendor
 
 !/htdocs/ressources
-/htdocs/ressources/theme
 /htdocs/ressources/css/*.min.*
 /htdocs/ressources/css/modules/*.min.*
 /htdocs/ressources/js/*.min.*
+/htdocs/ressources/js/modules/*.min.*
 
 !/htdocs/redaxo
 /htdocs/redaxo/*
@@ -27,6 +27,8 @@
 
 /htdocs/redaxo/data/addons/developer/templates/*
 !/htdocs/redaxo/data/addons/developer/templates/Head
+!/htdocs/redaxo/data/addons/developer/templates/PN-Kickstarter
+!/htdocs/redaxo/data/addons/developer/templates/Constructor
 
 !/htdocs/redaxo/src
 /htdocs/redaxo/src/*
@@ -34,5 +36,4 @@
 /htdocs/redaxo/src/addons/*
 
 !/htdocs/redaxo/src/addons/assets
-!/htdocs/redaxo/src/addons/pnimmo
-!/htdocs/redaxo/src/addons/medisoft
+!/htdocs/redaxo/src/addons/bloecks
