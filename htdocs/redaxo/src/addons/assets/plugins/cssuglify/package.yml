@@ -1,0 +1,10 @@
+package: assets/cssuglify
+version: '1.1.0'
+author: Sascha Weidner
+supportpage: www.factorylabs.com
+compile: 1
+
+extension: css
+preprozessor: css
+compiler:
+  compressed: false

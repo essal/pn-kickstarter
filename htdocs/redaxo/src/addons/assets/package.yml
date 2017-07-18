@@ -1,0 +1,14 @@
+package: assets
+version: '2.9.4'
+author: Sascha Weidner
+supportpage: www.factorylabs.com
+
+page:
+  title: 'translate:title'
+  perm: assets[]
+  block: system
+  icon: rex-icon fa-file-text
+  subpages:
+    settings: { title: 'translate:settings', perm: assets[settings]}
+    sets: { title: 'translate:sets', perm: assets[sets]}
+    help: { title: 'translate:help'}

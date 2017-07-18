@@ -1,0 +1,12 @@
+package: assets/lessphp
+version: '2.0.0'
+author: Sascha Weidner
+supportpage: www.factorylabs.com
+compile: 1
+
+extension: css
+preprozessor: less
+compiler:
+  strictMath: true
+  compressed: true
+  sourceMap: true

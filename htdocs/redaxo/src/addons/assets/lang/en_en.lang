@@ -1,0 +1,41 @@
+# Addon: Assets
+#---------------
+
+# Addon-Eintrag und Addon-Titel
+assets_title = Assets
+
+assets_settings = Settings
+assets_help = Hilfe
+assets_sets = Sets
+assets_info = Info
+
+assets_generel = Config set
+
+assets_paths = Path
+assets_include_files = Include files
+assets_file = File
+
+assets_sets_norowsmessage = No sets found
+config_saved_successfull = Settings successfully saved
+
+assets_sets_column_title = Title
+assets_sets_column_media_query = Media Query
+assets_sets_column_description = Description
+assets_sets_column_files = Files
+assets_sets_column_functions = Functions
+assets_sets_formcaption_edit = Edit set
+assets_sets_formcaption_add = Add set
+assets_sets_label_title = Title
+assets_sets_label_media_query = Media Query
+assets_sets_label_description = Description
+assets_sets_label_files = Files
+
+assets_sets_deleted = Set successfully deleted
+assets_sets_added = Set successfully added
+assets_sets_add_error = Can't add a new set
+assets_sets_updated = Set successfully updated
+assets_sets_update_error = Can't update set
+
+assets_save = Save
+assets_reset = Reset
+assets_reset_info = Do you want to reset this set?

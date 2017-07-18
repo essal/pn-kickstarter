@@ -1,0 +1,2 @@
+<p>Hier werden alle Dateien aufgelistet, die von den installierten Plugins gelesen werden können. Das Addon lädt alle ausgewählte Dateien und parst und minimiert sie. Im Anschluss werden alle Dateien in einer Datei zusammengefügt.</p>
+<p>Mit <strong>REX_ASSETS[type=css file=setname]</strong> und <strong>REX_ASSETS[type=js file=setname]</strong> können alle Style Sheets und Javascript geladen werden.</p>

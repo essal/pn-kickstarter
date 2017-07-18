@@ -1,0 +1,10 @@
+package: assets/sassphp
+version: '1.2.0'
+author: Sascha Weidner
+supportpage: www.factorylabs.com
+compile: 1
+
+extension: css
+preprozessor: scss
+compiler:
+  formatter: compressed

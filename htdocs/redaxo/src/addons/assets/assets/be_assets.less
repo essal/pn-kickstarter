@@ -1,0 +1,37 @@
+.checkbox {
+  label {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none; 
+  }
+  .fa-sort {
+    width: 15px;
+    cursor: move;
+    text-align: center;
+    display: inline-block;
+    + input {
+      margin-left: 0;
+      position: relative;
+    }
+  }
+}
+.rex-has-icon.preferences {
+  cursor: pointer;
+  font-size: 20px;
+  margin-left: 10px;
+}
+html,
+body {
+  &.modal-open {
+    overflow: hidden;
+  }
+}
+html.modal-open .rex-page-main-inner {
+  padding-right: 30px;
+}
+.fdl_modal {
+  .modal-dialog {
+    min-width: 50%;
+  }
+}

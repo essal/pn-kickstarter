@@ -1,0 +1,10 @@
+package: assets/jsuglify
+version: '1.0.0'
+author: Sascha Weidner
+supportpage: www.factorylabs.com
+compile: 1
+
+extension: js
+preprozessor: js
+compiler:
+  compressed: true
