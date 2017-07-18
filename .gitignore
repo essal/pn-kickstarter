@@ -28,7 +28,7 @@
 /htdocs/redaxo/data/addons/developer/templates/*
 !/htdocs/redaxo/data/addons/developer/templates/Head
 !/htdocs/redaxo/data/addons/developer/templates/PN-Kickstarter
-!/htdocs/redaxo/data/addons/developer/templates/Constructor
+
 
 !/htdocs/redaxo/src
 /htdocs/redaxo/src/*
